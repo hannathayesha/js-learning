@@ -1,2 +1,2 @@
 # js-learning
-a code repo of learning practise
+a code repo of learning javascript and practise
