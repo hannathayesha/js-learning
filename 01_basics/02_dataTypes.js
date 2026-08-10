@@ -11,6 +11,7 @@ let name="hitesh"// string
 let age = 18 //number 
 let isLoggedIn = false // boolean 
 let state;
+
 //number => 2 to power 53 
 //bigint 
 // string => ""
